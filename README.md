@@ -1,5 +1,5 @@
 <h1 align="center">Readme - Saucedemo</h1>
-<p align="center"> 📍 Automation was performed in Python language with Selenium Webdriver for Chrome web application (chromedrive)</p>
+<p align="center"> 📍 Automation was performed in Python language with Selenium for Chrome web application (chromedrive)</p>
 
 <p align="left">📄 Prerequisites</p>
 
